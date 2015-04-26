@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Laravel</title>
+		<title>Música para todos</title>
 		
 		<link rel='stylesheet' href="{{ asset('/css/welcome.css') }}">
 	</head>
@@ -47,8 +47,7 @@
 								<p class="parraf-conte-2">Escucha a tus artistas favoritos, échales un vistazo a los nuevos lanzamientos
 								 o reproduce las canciones que te hacen recordar las buenas épocas.</p>
 							</div>
-							<div>
-								
+							<div>								
 							</div>
 						</div>
 
